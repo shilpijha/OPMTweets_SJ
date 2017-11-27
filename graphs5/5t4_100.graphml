@@ -1,0 +1,1021 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Fed">
+      <data key="d0">127</data>
+    </node>
+    <node id="Management">
+      <data key="d0">106</data>
+    </node>
+    <node id="says">
+      <data key="d0">241</data>
+    </node>
+    <node id="fired">
+      <data key="d0">239</data>
+    </node>
+    <node id="hackers">
+      <data key="d0">104</data>
+    </node>
+    <node id="national">
+      <data key="d0">118</data>
+    </node>
+    <node id="number">
+      <data key="d0">185</data>
+    </node>
+    <node id="one">
+      <data key="d0">216</data>
+    </node>
+    <node id="officials">
+      <data key="d0">138</data>
+    </node>
+    <node id="US">
+      <data key="d0">435</data>
+    </node>
+    <node id="hack">
+      <data key="d0">386</data>
+    </node>
+    <node id="Breach">
+      <data key="d0">182</data>
+    </node>
+    <node id="Reading">
+      <data key="d0">131</data>
+    </node>
+    <node id="millions">
+      <data key="d0">159</data>
+    </node>
+    <node id="use">
+      <data key="d0">110</data>
+    </node>
+    <node id="said">
+      <data key="d0">142</data>
+    </node>
+    <node id="personnel">
+      <data key="d0">116</data>
+    </node>
+    <node id="make">
+      <data key="d0">117</data>
+    </node>
+    <node id="system">
+      <data key="d0">149</data>
+    </node>
+    <node id="access">
+      <data key="d0">133</data>
+    </node>
+    <node id="breaches">
+      <data key="d0">115</data>
+    </node>
+    <node id="systems">
+      <data key="d0">209</data>
+    </node>
+    <node id="breach">
+      <data key="d0">610</data>
+    </node>
+    <node id="Data">
+      <data key="d0">195</data>
+    </node>
+    <node id="sure">
+      <data key="d0">120</data>
+    </node>
+    <node id="may">
+      <data key="d0">153</data>
+    </node>
+    <node id="compromised">
+      <data key="d0">239</data>
+    </node>
+    <node id="background">
+      <data key="d0">127</data>
+    </node>
+    <node id="govt">
+      <data key="d0">469</data>
+    </node>
+    <node id="Security">
+      <data key="d0">306</data>
+    </node>
+    <node id="hearing">
+      <data key="d0">131</data>
+    </node>
+    <node id="data">
+      <data key="d0">905</data>
+    </node>
+    <node id="FBI">
+      <data key="d0">101</data>
+    </node>
+    <node id="like">
+      <data key="d0">102</data>
+    </node>
+    <node id="info">
+      <data key="d0">123</data>
+    </node>
+    <node id="intel">
+      <data key="d0">125</data>
+    </node>
+    <node id="Chinese">
+      <data key="d0">331</data>
+    </node>
+    <node id="h">
+      <data key="d0">103</data>
+    </node>
+    <node id="youre">
+      <data key="d0">111</data>
+    </node>
+    <node id="us">
+      <data key="d0">138</data>
+    </node>
+    <node id="wholl">
+      <data key="d0">118</data>
+    </node>
+    <node id="Hack">
+      <data key="d0">164</data>
+    </node>
+    <node id="OPM">
+      <data key="d0">1351</data>
+    </node>
+    <node id="security">
+      <data key="d0">816</data>
+    </node>
+    <node id="clearance">
+      <data key="d0">222</data>
+    </node>
+    <node id="history">
+      <data key="d0">106</data>
+    </node>
+    <edge source="Fed" target="govt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fed" target="personnel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Fed" target="Security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Fed" target="clearance">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Fed" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Management" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Management" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Management" target="Data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Management" target="hack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="says" target="info">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="says" target="Chinese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="says" target="hackers">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="says" target="US">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="says" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="says" target="compromised">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="says" target="background">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="says" target="govt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="says" target="OPM">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="says" target="security">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="says" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="fired" target="fired">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="fired" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="fired" target="hack">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="fired" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="fired" target="hearing">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="hackers" target="use">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="h">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="make">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="access">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="national" target="security">
+      <data key="d1">117</data>
+    </edge>
+    <edge source="number" target="govt">
+      <data key="d1">117</data>
+    </edge>
+    <edge source="number" target="personnel">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="number" target="systems">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="number" target="compromised">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="number" target="one">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="one" target="fired">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="one" target="officials">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="one" target="compromised">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="one" target="background">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="one" target="hack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="one" target="govt">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="one" target="OPM">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="one" target="security">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="one" target="millions">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="officials" target="said">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="officials" target="wholl">
+      <data key="d1">117</data>
+    </edge>
+    <edge source="us" target="govt">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="us" target="security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="us" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="use">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hack" target="may">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="hack" target="personnel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hack" target="national">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hack" target="US">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hack" target="one">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="hack" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="govt">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="OPM">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hack" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="millions">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Breach" target="Security">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Breach" target="Data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Breach" target="US">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Breach" target="hearing">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Reading" target="OPM">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="Reading" target="Security">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Reading" target="FBI">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Reading" target="millions">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="millions" target="background">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="millions" target="millions">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="use" target="access">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="use" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="use" target="said">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="use" target="data">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="use" target="us">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="said" target="youre">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="said" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="said" target="US">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="said" target="hackers">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="said" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="personnel" target="info">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="personnel" target="security">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="personnel" target="data">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="make" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="make" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="make" target="US">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="make" target="sure">
+      <data key="d1">74</data>
+    </edge>
+    <edge source="make" target="one">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="system" target="access">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="system" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="system" target="hack">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="system" target="compromised">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="system" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="access" target="info">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="access" target="Chinese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="access" target="hackers">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="access" target="US">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="access" target="systems">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="access" target="govt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="access" target="FBI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="access" target="data">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="access" target="security">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="access" target="compromised">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="breaches" target="may">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="breaches" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="systems" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="systems" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="systems" target="compromised">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="breach" target="system">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="info">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="use">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="says">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="breach" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="personnel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="breach" target="national">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="breach" target="number">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="US">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="breach" target="hearing">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="govt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="breach" target="OPM">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="breach" target="security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="breach" target="history">
+      <data key="d1">77</data>
+    </edge>
+    <edge source="Data" target="Chinese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Data" target="breach">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Data" target="compromised">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Data" target="Hack">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Data" target="Breach">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="Data" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="sure" target="youre">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="sure" target="Chinese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="may" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="may" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="may" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="may" target="compromised">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="may" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="Fed">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="compromised" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="national">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="one">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="compromised" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="breach">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="compromised" target="OPM">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="compromised" target="data">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="background" target="info">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="background" target="security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="background" target="clearance">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="background" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="govt" target="info">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="govt" target="said">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="govt" target="says">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="govt" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="govt" target="personnel">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="govt" target="officials">
+      <data key="d1">118</data>
+    </edge>
+    <edge source="govt" target="systems">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="govt" target="background">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="govt" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="govt" target="clearance">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="govt" target="data">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="Security" target="Management">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Security" target="number">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Security" target="system">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Security" target="breaches">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Security" target="Breach">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Security" target="clearance">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Security" target="Data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hearing" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hearing" target="h">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="hearing" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hearing" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hearing" target="breach">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hearing" target="data">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="data" target="hackers">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="data" target="hearing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="officials">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="hack">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="data" target="millions">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="use">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="said">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="personnel">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="system">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="access">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="breaches">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="data" target="systems">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="data" target="breach">
+      <data key="d1">245</data>
+    </edge>
+    <edge source="data" target="may">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="data" target="compromised">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="data" target="govt">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="data" target="one">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="data" target="data">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="data" target="Chinese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="h">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="OPM">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="data" target="security">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="security" target="info">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="security" target="Fed">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="says">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="Chinese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="security" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="h">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="make">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="number">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="security" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="system">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="security" target="personnel">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="security" target="breaches">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="systems">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="security" target="background">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="security" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="breach">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="security" target="clearance">
+      <data key="d1">176</data>
+    </edge>
+    <edge source="security" target="data">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="intel" target="data">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="info" target="use">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="info" target="sure">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="may">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="info" target="make">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="compromised">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="info" target="govt">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="millions">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="said">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="Chinese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="like" target="national">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="hearing">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="background">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Chinese" target="sure">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Chinese" target="says">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Chinese" target="intel">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Chinese" target="hackers">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="Chinese" target="hack">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="Chinese" target="system">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Chinese" target="access">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Chinese" target="Hack">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chinese" target="govt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chinese" target="FBI">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Chinese" target="data">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="US" target="says">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="US" target="intel">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="US" target="personnel">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="US" target="national">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="US" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="US" target="access">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="officials">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="US" target="background">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="govt">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="US" target="OPM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="US" target="security">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="US" target="Data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="history">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="wholl" target="fired">
+      <data key="d1">117</data>
+    </edge>
+    <edge source="Hack" target="may">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Hack" target="OPM">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Hack" target="govt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Hack" target="US">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="OPM" target="breaches">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="OPM" target="use">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="OPM" target="said">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OPM" target="says">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="OPM" target="fired">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="OPM" target="hackers">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="OPM" target="Breach">
+      <data key="d1">70</data>
+    </edge>
+    <edge source="OPM" target="h">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="OPM" target="Hack">
+      <data key="d1">79</data>
+    </edge>
+    <edge source="OPM" target="data">
+      <data key="d1">107</data>
+    </edge>
+    <edge source="OPM" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="OPM" target="officials">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="OPM" target="systems">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OPM" target="background">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="OPM" target="hack">
+      <data key="d1">105</data>
+    </edge>
+    <edge source="OPM" target="breach">
+      <data key="d1">92</data>
+    </edge>
+    <edge source="OPM" target="security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="OPM" target="history">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OPM" target="Data">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="OPM" target="Security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="OPM" target="compromised">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="FBI" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="clearance" target="info">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="clearance" target="may">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="clearance" target="system">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="clearance" target="background">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="clearance" target="hack">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="clearance" target="OPM">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="clearance" target="data">
+      <data key="d1">37</data>
+    </edge>
+  </graph>
+</graphml>

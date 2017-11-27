@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="federal">
+      <data key="d0">745</data>
+    </node>
+    <node id="OPM">
+      <data key="d0">518</data>
+    </node>
+    <node id="government">
+      <data key="d0">886</data>
+    </node>
+    <edge source="federal" target="government">
+      <data key="d1">450</data>
+    </edge>
+    <edge source="OPM" target="federal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="government" target="federal">
+      <data key="d1">3</data>
+    </edge>
+  </graph>
+</graphml>

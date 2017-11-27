@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="stolen">
+      <data key="d0">588</data>
+    </node>
+    <node id="affected">
+      <data key="d0">538</data>
+    </node>
+    <node id="people">
+      <data key="d0">855</data>
+    </node>
+    <node id="million">
+      <data key="d0">1324</data>
+    </node>
+    <node id="SSN">
+      <data key="d0">572</data>
+    </node>
+    <node id="Fingerprints">
+      <data key="d0">423</data>
+    </node>
+    <node id="fingerprints">
+      <data key="d0">548</data>
+    </node>
+    <edge source="stolen" target="Fingerprints">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="stolen" target="stolen">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="stolen" target="million">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="stolen" target="fingerprints">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="affected" target="million">
+      <data key="d1">156</data>
+    </edge>
+    <edge source="million" target="fingerprints">
+      <data key="d1">91</data>
+    </edge>
+    <edge source="million" target="affected">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="million" target="million">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="million" target="people">
+      <data key="d1">284</data>
+    </edge>
+    <edge source="million" target="Fingerprints">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="million" target="stolen">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="people" target="fingerprints">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="people" target="affected">
+      <data key="d1">101</data>
+    </edge>
+    <edge source="people" target="stolen">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="people" target="people">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="Fingerprints" target="million">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Fingerprints" target="stolen">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="SSN" target="fingerprints">
+      <data key="d1">275</data>
+    </edge>
+    <edge source="fingerprints" target="million">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fingerprints" target="stolen">
+      <data key="d1">129</data>
+    </edge>
+    <edge source="fingerprints" target="people">
+      <data key="d1">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="info">
+      <data key="d0">446</data>
+    </node>
+    <node id="join">
+      <data key="d0">315</data>
+    </node>
+    <node id="worse">
+      <data key="d0">769</data>
+    </node>
+    <node id="cyber">
+      <data key="d0">507</data>
+    </node>
+    <node id="China">
+      <data key="d0">1233</data>
+    </node>
+    <node id="hacked">
+      <data key="d0">319</data>
+    </node>
+    <node id="SQL">
+      <data key="d0">316</data>
+    </node>
+    <node id="biggest">
+      <data key="d0">345</data>
+    </node>
+    <node id="history">
+      <data key="d0">394</data>
+    </node>
+    <edge source="info" target="China">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="hacked">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="join" target="history">
+      <data key="d1">307</data>
+    </edge>
+    <edge source="worse" target="China">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="worse" target="worse">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="cyber" target="history">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="China" target="biggest">
+      <data key="d1">307</data>
+    </edge>
+    <edge source="China" target="info">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="China" target="hacked">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="China" target="cyber">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hacked" target="info">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="hacked" target="China">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hacked" target="hacked">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="SQL" target="join">
+      <data key="d1">310</data>
+    </edge>
+    <edge source="biggest" target="SQL">
+      <data key="d1">311</data>
+    </edge>
+    <edge source="history" target="info">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

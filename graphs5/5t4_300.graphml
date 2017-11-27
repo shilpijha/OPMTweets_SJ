@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Chinese">
+      <data key="d0">331</data>
+    </node>
+    <node id="US">
+      <data key="d0">435</data>
+    </node>
+    <node id="breach">
+      <data key="d0">610</data>
+    </node>
+    <node id="hack">
+      <data key="d0">386</data>
+    </node>
+    <node id="govt">
+      <data key="d0">469</data>
+    </node>
+    <node id="OPM">
+      <data key="d0">1351</data>
+    </node>
+    <node id="security">
+      <data key="d0">816</data>
+    </node>
+    <node id="data">
+      <data key="d0">905</data>
+    </node>
+    <node id="Security">
+      <data key="d0">306</data>
+    </node>
+    <edge source="Chinese" target="govt">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Chinese" target="data">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chinese" target="hack">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hack" target="govt">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="OPM">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hack" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hack" target="US">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hack" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="govt">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="US" target="OPM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="US" target="security">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="US" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OPM" target="breach">
+      <data key="d1">92</data>
+    </edge>
+    <edge source="OPM" target="security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="OPM" target="data">
+      <data key="d1">107</data>
+    </edge>
+    <edge source="OPM" target="Security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="OPM" target="hack">
+      <data key="d1">105</data>
+    </edge>
+    <edge source="govt" target="data">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="govt" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="govt">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="breach" target="OPM">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="breach" target="security">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="breach" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="breach" target="US">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="security" target="Chinese">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="security" target="hack">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="breach">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="security" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="security" target="data">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="data" target="Chinese">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="hack">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="data" target="govt">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="data" target="breach">
+      <data key="d1">245</data>
+    </edge>
+    <edge source="data" target="security">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="data" target="OPM">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="data" target="data">
+      <data key="d1">3</data>
+    </edge>
+  </graph>
+</graphml>

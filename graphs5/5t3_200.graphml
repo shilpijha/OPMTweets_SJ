@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="even">
+      <data key="d0">240</data>
+    </node>
+    <node id="like">
+      <data key="d0">270</data>
+    </node>
+    <node id="Chinese">
+      <data key="d0">201</data>
+    </node>
+    <node id="government">
+      <data key="d0">886</data>
+    </node>
+    <node id="federal">
+      <data key="d0">745</data>
+    </node>
+    <node id="employees">
+      <data key="d0">206</data>
+    </node>
+    <node id="never">
+      <data key="d0">248</data>
+    </node>
+    <node id="Director">
+      <data key="d0">207</data>
+    </node>
+    <node id="job">
+      <data key="d0">246</data>
+    </node>
+    <node id="OPM">
+      <data key="d0">518</data>
+    </node>
+    <edge source="like" target="job">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="Chinese">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="like" target="government">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="Chinese" target="government">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="government" target="federal">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="government" target="employees">
+      <data key="d1">103</data>
+    </edge>
+    <edge source="government" target="job">
+      <data key="d1">187</data>
+    </edge>
+    <edge source="government" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="federal" target="employees">
+      <data key="d1">82</data>
+    </edge>
+    <edge source="federal" target="government">
+      <data key="d1">450</data>
+    </edge>
+    <edge source="employees" target="even">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="employees" target="Chinese">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="never" target="even">
+      <data key="d1">187</data>
+    </edge>
+    <edge source="never" target="job">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Director" target="OPM">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="job" target="Director">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="job" target="OPM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="job" target="like">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="job" target="Chinese">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="OPM" target="Director">
+      <data key="d1">118</data>
+    </edge>
+    <edge source="OPM" target="federal">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="OPM" target="like">
+      <data key="d1">3</data>
+    </edge>
+  </graph>
+</graphml>

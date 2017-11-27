@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="says">
+      <data key="d0">151</data>
+    </node>
+    <node id="hackers">
+      <data key="d0">198</data>
+    </node>
+    <node id="cyber">
+      <data key="d0">507</data>
+    </node>
+    <node id="Cyber">
+      <data key="d0">134</data>
+    </node>
+    <node id="even">
+      <data key="d0">131</data>
+    </node>
+    <node id="FAR">
+      <data key="d0">218</data>
+    </node>
+    <node id="China">
+      <data key="d0">1233</data>
+    </node>
+    <node id="hacked">
+      <data key="d0">319</data>
+    </node>
+    <node id="biggest">
+      <data key="d0">345</data>
+    </node>
+    <node id="tips">
+      <data key="d0">129</data>
+    </node>
+    <node id="espionage">
+      <data key="d0">103</data>
+    </node>
+    <node id="Protect">
+      <data key="d0">139</data>
+    </node>
+    <node id="good">
+      <data key="d0">137</data>
+    </node>
+    <node id="worse">
+      <data key="d0">769</data>
+    </node>
+    <node id="million">
+      <data key="d0">239</data>
+    </node>
+    <node id="ht">
+      <data key="d0">109</data>
+    </node>
+    <node id="blame">
+      <data key="d0">106</data>
+    </node>
+    <node id="reported">
+      <data key="d0">235</data>
+    </node>
+    <node id="American">
+      <data key="d0">103</data>
+    </node>
+    <node id="data">
+      <data key="d0">225</data>
+    </node>
+    <node id="former">
+      <data key="d0">249</data>
+    </node>
+    <node id="present">
+      <data key="d0">218</data>
+    </node>
+    <node id="info">
+      <data key="d0">446</data>
+    </node>
+    <node id="US">
+      <data key="d0">209</data>
+    </node>
+    <node id="join">
+      <data key="d0">315</data>
+    </node>
+    <node id="getting">
+      <data key="d0">209</data>
+    </node>
+    <node id="originally">
+      <data key="d0">236</data>
+    </node>
+    <node id="SQL">
+      <data key="d0">316</data>
+    </node>
+    <node id="reports">
+      <data key="d0">248</data>
+    </node>
+    <node id="keeps">
+      <data key="d0">104</data>
+    </node>
+    <node id="prospecti">
+      <data key="d0">212</data>
+    </node>
+    <node id="security">
+      <data key="d0">265</data>
+    </node>
+    <node id="could">
+      <data key="d0">212</data>
+    </node>
+    <node id="history">
+      <data key="d0">394</data>
+    </node>
+    <edge source="says" target="good">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="says" target="could">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="says" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="says" target="China">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="says" target="cyber">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="says" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="China">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hackers" target="says">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hackers" target="cyber">
+      <data key="d1">124</data>
+    </edge>
+    <edge source="keeps" target="getting">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="cyber" target="tips">
+      <data key="d1">124</data>
+    </edge>
+    <edge source="cyber" target="security">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="cyber" target="espionage">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="cyber" target="history">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="Protect">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="good">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="US" target="cyber">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="US" target="China">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="US" target="Cyber">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="US" target="security">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="US" target="data">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="US" target="espionage">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="US" target="history">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="even" target="worse">
+      <data key="d1">87</data>
+    </edge>
+    <edge source="FAR" target="worse">
+      <data key="d1">217</data>
+    </edge>
+    <edge source="China" target="even">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="China" target="info">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="China" target="hackers">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="China" target="getting">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="China" target="could">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="China" target="cyber">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="China" target="blame">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="China" target="hacked">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="China" target="biggest">
+      <data key="d1">307</data>
+    </edge>
+    <edge source="China" target="data">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="hacked" target="info">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="hacked" target="data">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="hacked" target="million">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="hacked" target="China">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hacked" target="hacked">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="biggest" target="SQL">
+      <data key="d1">311</data>
+    </edge>
+    <edge source="tips" target="getting">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="espionage" target="China">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Protect" target="hackers">
+      <data key="d1">122</data>
+    </edge>
+    <edge source="good" target="security">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="good" target="cyber">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="worse" target="even">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="worse" target="worse">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="worse" target="hackers">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="worse" target="originally">
+      <data key="d1">223</data>
+    </edge>
+    <edge source="worse" target="ht">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="worse" target="reported">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="worse" target="China">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="worse" target="data">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="million" target="worse">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="million" target="present">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="blame" target="China">
+      <data key="d1">64</data>
+    </edge>
+    <edge source="blame" target="reports">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="reported" target="info">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="American" target="security">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="American" target="history">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="info">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="good">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="says">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="hackers">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="cyber">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="data" target="hacked">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="data" target="history">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="former" target="prospecti">
+      <data key="d1">211</data>
+    </edge>
+    <edge source="present" target="former">
+      <data key="d1">215</data>
+    </edge>
+    <edge source="info" target="hackers">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="million">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="info" target="US">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="China">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="ht">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="info" target="hacked">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="info" target="keeps">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="join" target="history">
+      <data key="d1">307</data>
+    </edge>
+    <edge source="getting" target="even">
+      <data key="d1">56</data>
+    </edge>
+    <edge source="getting" target="worse">
+      <data key="d1">91</data>
+    </edge>
+    <edge source="getting" target="cyber">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="getting" target="hacked">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="originally" target="reported">
+      <data key="d1">217</data>
+    </edge>
+    <edge source="Cyber" target="security">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Cyber" target="espionage">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="reports" target="FAR">
+      <data key="d1">214</data>
+    </edge>
+    <edge source="SQL" target="join">
+      <data key="d1">310</data>
+    </edge>
+    <edge source="security" target="Cyber">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="could" target="espionage">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="could" target="hacked">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="could" target="worse">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="history" target="info">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>

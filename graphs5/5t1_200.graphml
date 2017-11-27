@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Director">
+      <data key="d0">270</data>
+    </node>
+    <node id="needs">
+      <data key="d0">265</data>
+    </node>
+    <node id="set">
+      <data key="d0">217</data>
+    </node>
+    <node id="administration">
+      <data key="d0">233</data>
+    </node>
+    <node id="know">
+      <data key="d0">301</data>
+    </node>
+    <node id="server">
+      <data key="d0">230</data>
+    </node>
+    <node id="Archuleta">
+      <data key="d0">460</data>
+    </node>
+    <node id="Katherine">
+      <data key="d0">206</data>
+    </node>
+    <node id="America">
+      <data key="d0">332</data>
+    </node>
+    <node id="president">
+      <data key="d0">205</data>
+    </node>
+    <node id="one">
+      <data key="d0">343</data>
+    </node>
+    <node id="email">
+      <data key="d0">224</data>
+    </node>
+    <node id="Obama">
+      <data key="d0">769</data>
+    </node>
+    <edge source="one" target="Obama">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="Archuleta" target="Director">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Archuleta" target="Obama">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="needs" target="president">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="needs" target="know">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="administration" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Director" target="Archuleta">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Director" target="Katherine">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="Katherine" target="Archuleta">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="know" target="needs">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="know" target="know">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="know" target="Obama">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="president" target="set">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="America" target="needs">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="America" target="know">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="email" target="server">
+      <data key="d1">198</data>
+    </edge>
+    <edge source="Obama" target="needs">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Obama" target="administration">
+      <data key="d1">181</data>
+    </edge>
+  </graph>
+</graphml>

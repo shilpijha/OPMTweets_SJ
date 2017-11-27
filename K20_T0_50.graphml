@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d1" />
+  <key attr.name="count" attr.type="long" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="compromised">
+      <data key="d0">179</data>
+    </node>
+    <node id="fares">
+      <data key="d0">64</data>
+    </node>
+    <node id="staff">
+      <data key="d0">81</data>
+    </node>
+    <node id="check">
+      <data key="d0">53</data>
+    </node>
+    <node id="blame">
+      <data key="d0">74</data>
+    </node>
+    <node id="State">
+      <data key="d0">83</data>
+    </node>
+    <node id="GOP">
+      <data key="d0">85</data>
+    </node>
+    <node id="disaster">
+      <data key="d0">84</data>
+    </node>
+    <node id="incl">
+      <data key="d0">77</data>
+    </node>
+    <node id="Agencies">
+      <data key="d0">52</data>
+    </node>
+    <node id="Poorly">
+      <data key="d0">63</data>
+    </node>
+    <node id="tells">
+      <data key="d0">77</data>
+    </node>
+    <node id="Fed">
+      <data key="d0">114</data>
+    </node>
+    <node id="prospective">
+      <data key="d0">78</data>
+    </node>
+    <node id="secrets">
+      <data key="d0">82</data>
+    </node>
+    <node id="current">
+      <data key="d0">82</data>
+    </node>
+    <node id="systems">
+      <data key="d0">82</data>
+    </node>
+    <node id="allegations">
+      <data key="d0">69</data>
+    </node>
+    <node id="checks">
+      <data key="d0">81</data>
+    </node>
+    <node id="Archuleta">
+      <data key="d0">73</data>
+    </node>
+    <node id="Victims">
+      <data key="d0">53</data>
+    </node>
+    <node id="power">
+      <data key="d0">66</data>
+    </node>
+    <node id="Gosh">
+      <data key="d0">72</data>
+    </node>
+    <node id="calls">
+      <data key="d0">69</data>
+    </node>
+    <node id="guess">
+      <data key="d0">75</data>
+    </node>
+    <node id="major">
+      <data key="d0">67</data>
+    </node>
+    <node id="background">
+      <data key="d0">64</data>
+    </node>
+    <node id="system">
+      <data key="d0">65</data>
+    </node>
+    <node id="America">
+      <data key="d0">64</data>
+    </node>
+    <node id="experiment">
+      <data key="d0">64</data>
+    </node>
+    <node id="bkgd">
+      <data key="d0">77</data>
+    </node>
+    <node id="Recommendations">
+      <data key="d0">52</data>
+    </node>
+    <edge source="compromised" target="Fed">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="compromised" target="incl">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="compromised" target="background">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="fares" target="secrets">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="tells" target="staff">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="staff" target="systems">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="check" target="system">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="blame" target="GOP">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="State" target="tells">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="GOP" target="Archuleta">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="incl" target="bkgd">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="system" target="compromised">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="prospective" target="Fed">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="current" target="prospective">
+      <data key="d1">77</data>
+    </edge>
+    <edge source="current" target="background">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="systems" target="compromised">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="checks" target="current">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="Archuleta" target="disaster">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="Victims" target="Agencies">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="Gosh" target="guess">
+      <data key="d1">71</data>
+    </edge>
+    <edge source="calls" target="allegations">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="guess" target="blame">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="major" target="power">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="America" target="experiment">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="secrets" target="Poorly">
+      <data key="d1">62</data>
+    </edge>
+    <edge source="power" target="fares">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="experiment" target="major">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="bkgd" target="checks">
+      <data key="d1">75</data>
+    </edge>
+    <edge source="bkgd" target="check">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Recommendations" target="Victims">
+      <data key="d1">51</data>
+    </edge>
+    <edge source="background" target="checks">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="background" target="check">
+      <data key="d1">40</data>
+    </edge>
+  </graph>
+</graphml>

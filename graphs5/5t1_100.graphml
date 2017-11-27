@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="count" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Surfaces">
+      <data key="d0">109</data>
+    </node>
+    <node id="USG">
+      <data key="d0">133</data>
+    </node>
+    <node id="set">
+      <data key="d0">217</data>
+    </node>
+    <node id="says">
+      <data key="d0">113</data>
+    </node>
+    <node id="dont">
+      <data key="d0">118</data>
+    </node>
+    <node id="hearing">
+      <data key="d0">162</data>
+    </node>
+    <node id="need">
+      <data key="d0">150</data>
+    </node>
+    <node id="stole">
+      <data key="d0">104</data>
+    </node>
+    <node id="clearly">
+      <data key="d0">199</data>
+    </node>
+    <node id="Director">
+      <data key="d0">270</data>
+    </node>
+    <node id="story">
+      <data key="d0">108</data>
+    </node>
+    <node id="SSNs">
+      <data key="d0">102</data>
+    </node>
+    <node id="demonstrates">
+      <data key="d0">196</data>
+    </node>
+    <node id="Incompetence">
+      <data key="d0">118</data>
+    </node>
+    <node id="responsible">
+      <data key="d0">187</data>
+    </node>
+    <node id="administration">
+      <data key="d0">233</data>
+    </node>
+    <node id="Archuleta">
+      <data key="d0">460</data>
+    </node>
+    <node id="mud">
+      <data key="d0">194</data>
+    </node>
+    <node id="enough">
+      <data key="d0">117</data>
+    </node>
+    <node id="Katherine">
+      <data key="d0">206</data>
+    </node>
+    <node id="Unqualified">
+      <data key="d0">109</data>
+    </node>
+    <node id="Quits">
+      <data key="d0">115</data>
+    </node>
+    <node id="America">
+      <data key="d0">332</data>
+    </node>
+    <node id="email">
+      <data key="d0">224</data>
+    </node>
+    <node id="Obama">
+      <data key="d0">769</data>
+    </node>
+    <node id="Admin">
+      <data key="d0">143</data>
+    </node>
+    <node id="insecure">
+      <data key="d0">196</data>
+    </node>
+    <node id="watch">
+      <data key="d0">116</data>
+    </node>
+    <node id="needs">
+      <data key="d0">265</data>
+    </node>
+    <node id="director">
+      <data key="d0">110</data>
+    </node>
+    <node id="Person">
+      <data key="d0">109</data>
+    </node>
+    <node id="know">
+      <data key="d0">301</data>
+    </node>
+    <node id="president">
+      <data key="d0">205</data>
+    </node>
+    <node id="one">
+      <data key="d0">343</data>
+    </node>
+    <node id="room">
+      <data key="d0">194</data>
+    </node>
+    <node id="server">
+      <data key="d0">230</data>
+    </node>
+    <node id="China">
+      <data key="d0">108</data>
+    </node>
+    <node id="OPM">
+      <data key="d0">154</data>
+    </node>
+    <edge source="USG" target="need">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="set" target="insecure">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="says" target="need">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="dont" target="need">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dont" target="administration">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="dont" target="know">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="hearing" target="Director">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="hearing" target="set">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="hearing" target="says">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hearing" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="need" target="set">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="need" target="know">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="clearly" target="demonstrates">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="Archuleta" target="director">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="Archuleta" target="says">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="Archuleta" target="dont">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Archuleta" target="hearing">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="Archuleta" target="Director">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="Archuleta" target="OPM">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="Archuleta" target="Quits">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="Archuleta" target="Obama">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="story" target="Director">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="story" target="Katherine">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="story" target="one">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="SSNs" target="watch">
+      <data key="d1">99</data>
+    </edge>
+    <edge source="demonstrates" target="America">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="Incompetence" target="Surfaces">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="responsible" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="responsible" target="enough">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="responsible" target="responsible">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="responsible" target="Katherine">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="administration" target="responsible">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="administration" target="one">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Director" target="need">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Director" target="Archuleta">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="Director" target="OPM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="Director" target="says">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="Director" target="Katherine">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="mud" target="room">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="enough" target="need">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="enough" target="enough">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="Katherine" target="Archuleta">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="Unqualified" target="Person">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="Quits" target="Obama">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="America" target="needs">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="America" target="know">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="email" target="server">
+      <data key="d1">198</data>
+    </edge>
+    <edge source="Obama" target="Admin">
+      <data key="d1">121</data>
+    </edge>
+    <edge source="Obama" target="needs">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="Obama" target="administration">
+      <data key="d1">181</data>
+    </edge>
+    <edge source="Admin" target="Incompetence">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="insecure" target="email">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="watch" target="hearing">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="needs" target="president">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="needs" target="know">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="director" target="Archuleta">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="director" target="Katherine">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="director" target="says">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="director" target="OPM">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="Person" target="Quits">
+      <data key="d1">108</data>
+    </edge>
+    <edge source="know" target="USG">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="know" target="needs">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="know" target="says">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="know" target="dont">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="know" target="know">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="know" target="need">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="know" target="OPM">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="know" target="Obama">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="president" target="set">
+      <data key="d1">195</data>
+    </edge>
+    <edge source="one" target="responsible">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="one" target="Obama">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="server" target="mud">
+      <data key="d1">193</data>
+    </edge>
+    <edge source="China" target="stole">
+      <data key="d1">99</data>
+    </edge>
+    <edge source="OPM" target="director">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="OPM" target="Director">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="OPM" target="hearing">
+      <data key="d1">0</data>
+    </edge>
+  </graph>
+</graphml>
